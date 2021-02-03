@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T06:45:16.757Z" agent="5.0 (Windows)" etag="gwQB37FwoSWq5ihEJSqT" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:48:46.869Z" agent="5.0 (Windows)" etag="CNdVZIagtp63o6LV0L0K" version="14.2.7" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="1896" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry y="64" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-55" value="" style="group;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="330" y="440" width="100" height="78.5" as="geometry" />
+          <mxGeometry x="1140" y="535.75" width="100" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-12" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.database_server;" parent="wH-n1kbzoVB-5Ipiic9I-55" vertex="1">
           <mxGeometry x="57" width="43" height="56" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-67" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;shadow=1;direction=east;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="247.5" width="100" height="75" as="geometry" />
+          <mxGeometry x="130" y="380" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-69" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="wH-n1kbzoVB-5Ipiic9I-68" target="wH-n1kbzoVB-5Ipiic9I-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-3" value="Access Point" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
-          <mxGeometry x="511" y="162.5" width="100" height="85" as="geometry" />
+          <mxGeometry x="590" y="420" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-4" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wH-n1kbzoVB-5Ipiic9I-2" target="Oz_NwDyL21OnfwVQP1Ws-3">
           <mxGeometry relative="1" as="geometry" />
@@ -252,7 +252,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-17" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="749" y="340" width="320" height="320" as="geometry" />
+          <mxGeometry x="720" y="350" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-78" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="Oz_NwDyL21OnfwVQP1Ws-17" vertex="1">
           <mxGeometry x="70" width="100" height="100" as="geometry" />
@@ -280,6 +280,15 @@
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-41" value="Oficina" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;dashed=1;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="935" y="505" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-42" value="Cabina de Audio" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;dashed=1;fontSize=24;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1217.5" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-43" value="Pastoral de Ninos" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;dashed=1;fontSize=24;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="150" y="638" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-44" value="Oficinas adjuntas" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;dashed=1;fontSize=24;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="905" y="610" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
