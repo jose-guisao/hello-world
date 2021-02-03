@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T07:23:41.526Z" agent="5.0 (Windows)" etag="fShUQXsXCZShEGcC9a2C" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T07:28:30.653Z" agent="5.0 (Windows)" etag="7ZPkYOgsm2swmcH8nXiK" version="14.2.7" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1896" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;strokeWidth=2;fillColor=none;fontSize=4;align=left;" vertex="1" parent="Oz_NwDyL21OnfwVQP1Ws-17">
-          <mxGeometry x="-230" y="-30" width="690" height="370" as="geometry" />
+          <mxGeometry x="-225" y="-30" width="690" height="370" as="geometry" />
         </mxCell>
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-51" value="" style="shape=mxgraph.cisco.switches.softswitch_pgw_mgc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="Oz_NwDyL21OnfwVQP1Ws-17" vertex="1">
           <mxGeometry x="200" width="110" height="90" as="geometry" />
@@ -27,6 +27,9 @@
             <mxPoint x="232.08837209302328" y="70" as="sourcePoint" />
             <mxPoint x="139.8697674418604" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-117" value="192.168.10.25x" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Tahoma;fontSize=10;" vertex="1" parent="Oz_NwDyL21OnfwVQP1Ws-17">
+          <mxGeometry x="160" y="250" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-33" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;strokeWidth=2;fillColor=none;fontSize=4;align=left;direction=south;" vertex="1" parent="1">
           <mxGeometry x="30" y="630" width="390" height="630" as="geometry" />
@@ -72,7 +75,7 @@
         <mxCell id="wH-n1kbzoVB-5Ipiic9I-19" value="AT&amp;amp;T&lt;br&gt;Edge Router&lt;br&gt;SIP Trunk" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;" parent="wH-n1kbzoVB-5Ipiic9I-22" vertex="1">
           <mxGeometry width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wH-n1kbzoVB-5Ipiic9I-24" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="wH-n1kbzoVB-5Ipiic9I-78" target="wH-n1kbzoVB-5Ipiic9I-2" edge="1">
+        <mxCell id="wH-n1kbzoVB-5Ipiic9I-24" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Oz_NwDyL21OnfwVQP1Ws-118" target="wH-n1kbzoVB-5Ipiic9I-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="767.2560975609754" y="420" as="sourcePoint" />
           </mxGeometry>
@@ -370,6 +373,18 @@
         </mxCell>
         <mxCell id="Oz_NwDyL21OnfwVQP1Ws-112" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Iglesia Ministerio Sanador&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];strokeColor=#6c8ebf;rounded=0;shadow=1;fontFamily=Tahoma;fontSize=26;fillColor=#9999FF;gradientColor=#CFE05E;" vertex="1" parent="1">
           <mxGeometry x="1210" y="30" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-116" value="192.168.10.25x" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Tahoma;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="930" y="850" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-118" value="&lt;div&gt;10.0.1.1&lt;/div&gt;&lt;div&gt;DNS/Resolver&lt;/div&gt;&lt;div&gt;NTP&lt;/div&gt;&lt;div&gt;DHCP&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Tahoma;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="790" y="450" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_NwDyL21OnfwVQP1Ws-119" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wH-n1kbzoVB-5Ipiic9I-78" target="Oz_NwDyL21OnfwVQP1Ws-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="851.2162162162163" y="450" as="sourcePoint" />
+            <mxPoint x="853.8918918918916" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
